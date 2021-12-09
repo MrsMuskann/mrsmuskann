@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Fatoumata</h1>
-<h3 align="center">A Web developer from French</h3>
+### Hi there 👋, my name is Fatoumata SOUKOUNA
+#### I am developer from French
+![I am developer from French](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 - 🔭 I’m currently working on **my Portfolio**
 
